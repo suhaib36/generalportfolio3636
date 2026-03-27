@@ -13,7 +13,7 @@ const Resume = () => {
           </p>
           <button className="flex items-center gap-3 px-6 py-3 bg-primary text-primary-foreground font-pixel text-xs hover:bg-primary/90 transition-all hover:scale-105 pixel-shadow">
            <a
-  href="/Suhaibishrat_resume.pdf"
+  href="/Suhaibishratgen_resume"
   download
   className="flex items-center gap-3 px-6 py-3 bg-primary text-primary-foreground font-pixel text-xs hover:bg-primary/90 transition-all hover:scale-105 pixel-shadow"
 >
